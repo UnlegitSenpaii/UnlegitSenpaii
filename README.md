@@ -8,15 +8,11 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-Hello! I'm Senpaii - a IT Administrator in Germany. I split my time between running and automating systems (Linux and Windows), building tools in C++ and C#. Outside of work I enjoy my homelab, gaming and tinkering with reverse engineering.
+Hello! I'm Senpaii - a IT Administrator in Germany.<br>
+I split my time between running and automating systems (Linux and Windows) and building tools.<br>
+Outside of work I enjoy tinkering with my homelab, gaming and tinkering with reverse engineering.
 
 ---
-
-## 🛠️ Tech Stack
-
-I use a compact set of languages and tools in my daily work:
 
 - **Languages:** C++, JavaScript, PowerShell
 - **Tools & Platforms:** Linux, Windows, VS (Code), Node.js, Ghidra, Docker
