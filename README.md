@@ -19,7 +19,7 @@ Hello! I'm Senpaii - a IT Administrator in Germany. I split my time between runn
 I use a compact set of languages and tools in my daily work:
 
 - **Languages:** C++, JavaScript, PowerShell
-- **Tools & Platforms:** Linux, Windows, VS Code, Git, Node.js, Arch, Ghidra
+- **Tools & Platforms:** Linux, Windows, VS (Code), Node.js, Ghidra, Docker
 - **Also:** Sometimes I dabble in C#, Java, Python, and other languages
 
 ---
