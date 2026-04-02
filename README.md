@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**UnlegitSenpaii/UnlegitSenpaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm UnlegitSenpaii</h1>
 
-Here are some ideas to get you started:
+<p>System Administrator • C++ developer • MS Slop enthusiast</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+Hello! I'm Senpaii - a IT Administrator in Germany. I split my time between running and automating systems (Linux and Windows), building tools in C++ and C#. Outside of work I enjoy my homelab, gaming and tinkering with reverse engineering.
+
+---
+
+## 🛠️ Tech Stack
+
+I use a compact set of languages and tools in my daily work:
+
+- **Languages:** C++, JavaScript, PowerShell
+- **Tools & Platforms:** Linux, Windows, VS Code, Git, Node.js, Arch, Ghidra
+- **Also:** Sometimes I dabble in C#, Java, Python, and other languages
+
+---
