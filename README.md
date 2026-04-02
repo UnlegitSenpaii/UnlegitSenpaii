@@ -21,5 +21,3 @@ I use a compact set of languages and tools in my daily work:
 - **Languages:** C++, JavaScript, PowerShell
 - **Tools & Platforms:** Linux, Windows, VS (Code), Node.js, Ghidra, Docker
 - **Also:** Sometimes I dabble in C#, Java, Python, and other languages
-
----
