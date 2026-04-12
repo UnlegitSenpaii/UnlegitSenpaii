@@ -7,7 +7,7 @@
 
 Hello! I'm Senpaii - a IT Administrator in Germany.<br>
 I split my time between running and automating systems and building tools.<br>
-Outside of work I enjoy tinkering with my homelab, gaming and tinkering with reverse engineering.
+Outside of work I enjoy working on my homelab, gaming and tinkering with reverse engineering.
 
 ---
 
